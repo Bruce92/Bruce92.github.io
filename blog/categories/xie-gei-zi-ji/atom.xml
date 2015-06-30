@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: 写给自己 | My Octopress Blog]]></title>
+  <link href="http://bruce92.github.io/blog/categories/xie-gei-zi-ji/atom.xml" rel="self"/>
+  <link href="http://bruce92.github.io/"/>
+  <updated>2015-06-30T09:07:05+08:00</updated>
+  <id>http://bruce92.github.io/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[障碍只在自己内心]]></title>
+    <link href="http://bruce92.github.io/blog/2015/06/30/firstblood/"/>
+    <updated>2015-06-30T08:25:14+08:00</updated>
+    <id>http://bruce92.github.io/blog/2015/06/30/firstblood</id>
+    <content type="html"><![CDATA[<h1>第一篇文章</h1>
+
+<h2>当然是鸡汤了</h2>
+
+<p><strong>畏惧</strong></p>
+
+<p><code>什么</code></p>
+
+<ul>
+<li>学习</li>
+<li>sdf</li>
+<li>dfsd</li>
+</ul>
+
+
+<blockquote><p>引用</p></blockquote>
+
+<p><a href="http://www.baidu.com">jikexueyuan</a></p>
+
+<p><img src="" alt="image" /></p>
+
+<p><video width='640' height='320' preload='metadata' controls ><source src='http://static-jkxy.qiniudn.com/event/jkxy_profile20150318.mp4">http://static-jkxy.qiniudn.com/event/jkxy_profile20150318.mp4</a>' ></video></p>
+]]></content>
+  </entry>
+  
+</feed>
